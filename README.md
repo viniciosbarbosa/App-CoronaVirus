@@ -1,6 +1,3 @@
-# App-CoronaVirus
-App Android Desenvolvido em 2020 sobre o CoronaVírus
-
 <h1>App Corona Virus</h1>
 <span>
   
