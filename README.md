@@ -1,7 +1,7 @@
 <h1>App Corona Virus</h1>
 <span>
   
-  Objetivo do app é informar a população dos perigos , sintomas , metuodos de prevenção e historia do doença<br> 
+  Objetivo do app é informar a população dos perigos , sintomas , métodos de prevenção e historia do doença<br> 
   De maneira de facil entendimento e ilustrado 
 </span>
 
